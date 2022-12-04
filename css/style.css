@@ -1,4 +1,4 @@
-img{
+.me{
 	height: 230px;
 	width: 350px;
 }
@@ -8,5 +8,31 @@ body{
 }
 
 h1{
-	color: : #5f36ca;
+	color: green ;
+}
+h5{
+	color:#900b0b ;
+}
+.card{
+	background-color: #dba2be;
+
+	padding:20px 10px 20px 10px;
+	margin: 10px;
+}
+
+.cd2{
+	background-color: #d1f326;
+}
+
+.sushi{
+	height: auto; 
+	width: 100% ;
+}
+.kickboxing{
+	height: auto; ;
+	width: 100%
+}
+.shopping{
+	height: auto;
+	width: 100%
 }
